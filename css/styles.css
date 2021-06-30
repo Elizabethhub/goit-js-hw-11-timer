@@ -1,0 +1,22 @@
+body {
+  padding: 20px;
+}
+.timer {
+  display: flex;
+  text-align: center;
+  margin-top: 20px;
+
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.value {
+  border-radius: 5px;
+  border: solid 3px;
+  font-size: 70px;
+  background-color: rgb(183, 235, 218);
+  padding: 30px;
+}
+.label {
+  padding: 15px;
+  font-size: 20px;
+}
